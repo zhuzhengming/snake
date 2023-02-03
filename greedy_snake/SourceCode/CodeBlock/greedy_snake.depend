@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1420212242 source:c:\users\administrator\desktop\greedy_snake\sourcecode\icon.rc
+
+1433848136 source:c:\users\administrator\desktop\greedy_snake\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 c:\users\administrator\desktop\greedy_snake\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 c:\users\administrator\desktop\greedy_snake\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1595321793 source:c:\users\administrator\desktop\greedy_snake\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1420212242 source:c:\users\lenovo\desktop\greedy_snake\sourcecode\icon.rc
+
+1433848136 source:c:\users\lenovo\desktop\greedy_snake\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1595495113 c:\users\lenovo\desktop\greedy_snake\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 c:\users\lenovo\desktop\greedy_snake\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1595496410 source:c:\users\lenovo\desktop\greedy_snake\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+	<math.h>
+
+1420212242 source:f:\Ã∞≥‘…ﬂ\greedy_snake\sourcecode\icon.rc
+
+1433848136 source:f:\Ã∞≥‘…ﬂ\greedy_snake\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 f:\Ã∞≥‘…ﬂ\greedy_snake\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 f:\Ã∞≥‘…ﬂ\greedy_snake\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1595426586 source:f:\Ã∞≥‘…ﬂ\greedy_snake\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+	<math.h>
+
